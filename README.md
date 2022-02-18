@@ -1,5 +1,10 @@
 ### Hi there 👋
+---
+**I'm a student in Shanghai University.**
 
+🛠 Major in Cyberspace Security.
+
+👉 [Blog](www.outis.top) (Lang: CN)
 <!--
 **Outis9/Outis9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
