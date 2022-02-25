@@ -6,6 +6,8 @@
 
 👉 [Blog](http://outis9.top) (Lang: CN)
 
+📫 How to reach me: outis0611@gmail.com
+
 [![Outis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Outis9&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Outis9&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
