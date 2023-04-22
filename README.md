@@ -4,9 +4,9 @@
 
 🛠 Major in Cyberspace Security.
 
-👉 [Blog](http://outis9.top) (Lang: CN)
+👉 [Blog](https://outis9.top) (Lang: CN)
 
-📫 How to reach me: outis0611@gmail.com
+📫 How to reach me: 0ut1s9@duck.com
 
 [![Outis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Outis9&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
